@@ -1,0 +1,5 @@
+{
+  "name": "Copy of REJ AI Image Generator",
+  "description": "An application for generating images from text prompts using the Gemini 2.5 Flash Image model. Styled with a bold yellow, white, and black theme.",
+  "requestFramePermissions": []
+}
